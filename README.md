@@ -29,6 +29,8 @@ Exercise 01 shows the results of diffents operations by the numbers given.
 
 - [Access the finished project, online](https://aoba43.github.io/exercise_1_stg_4/)
 
+- Project given by Rocketseat to practice about the introduction of Javascript
+
 ## :memo: License
 
 This project is under the MIT license.
