@@ -1,4 +1,4 @@
-<h1 align="center"> Exercise 01 </h1>
+<h1 align="center"> Calc2Num </h1>
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -13,22 +13,22 @@
 <br>
 
 <p align="center">
-  <img alt="Exercise1" src="./github/preview.png" width="100%">
+  <img alt="Calc2Num" src="./github/preview.png" width="100%">
 </p>
 
 ## 🚀 Technologies
 
 This project was developed with the following technologies:
 
-- HTML and CSS
+- HTML
 - JavaScript
 - Git and GitHub
 
 ## 💻 Project
 
-Exercise 01 shows the results of diffents operations by the numbers given.
+Exercise 01 shows the results of different operations by the numbers given.
 
-- [Access the finished project, online](https://aoba43.github.io/exercise_1_stg_4/)
+- [Access the finished project, online](https://smoothemerson.github.io/Calc2Num/)
 
 - Project given by Rocketseat to practice about the introduction of Javascript
 
